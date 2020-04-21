@@ -5,4 +5,5 @@
 ## Performance Parts
 
 * [Engines](performance-parts/engines.md)
+* [Forced Inductions](performance-parts/forced-inductions.md)
 
