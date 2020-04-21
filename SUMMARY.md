@@ -15,9 +15,14 @@
 ## Cars
 
 * [Home](cars/list/README.md)
-  * [Aston](cars/list/aston.md)
   * [Alfa](cars/list/alfa/README.md)
     * [Romeo 8C Competizione](cars/list/alfa/romeo-8c-competizione.md)
+  * [Aston](cars/list/aston.md)
+  * [Audi](cars/list/audi.md)
+  * [Bentley](cars/list/bentley.md)
+  * [BMW](cars/list/bmw/README.md)
+    * [M3 E92](cars/list/bmw/m3-e92.md)
+  * [Bugatti](cars/list/bugatti.md)
 
 ## Power-Ups
 
