@@ -1,4 +1,4 @@
-# Engines
+# Forced Inductions
 
 ## Getting Super Powers
 
@@ -18,7 +18,7 @@ These inductions are all about delivering the middle of the road power output. T
 
 | Quartz Speed Packages |
 | :---: |
-| ![](../.gitbook/assets/elitebeigeinduction.png) |
+| ![](https://github.com/DavidCarbon-SBRW/NFSW-Guide-Page/tree/7b1a1f2bff77cf5b16bc5852a5ba2cb8a3e7f8fb/.gitbook/assets/elitebeigeinduction.png) |
 
 {% hint style="info" %}
 **Blue Performance Parts**
@@ -36,7 +36,7 @@ These inductions are high-torque powerplant designed to pack quite a punch, allo
 
 | Stick Motorsport |
 | :---: |
-| ![](../.gitbook/assets/eliteblueinduction.png) |
+| ![](https://github.com/DavidCarbon-SBRW/NFSW-Guide-Page/tree/7b1a1f2bff77cf5b16bc5852a5ba2cb8a3e7f8fb/.gitbook/assets/eliteblueinduction.png) |
 
 {% hint style="danger" %}
 **Red Performance Parts**
@@ -54,7 +54,7 @@ These inductions are considered to be the worst brand for power parts according 
 
 | Tear |
 | :---: |
-| ![](../.gitbook/assets/eliteredinduction.png) |
+| ![](https://github.com/DavidCarbon-SBRW/NFSW-Guide-Page/tree/7b1a1f2bff77cf5b16bc5852a5ba2cb8a3e7f8fb/.gitbook/assets/eliteredinduction.png) |
 
 {% hint style="success" %}
 **Green Performance Parts**
@@ -72,5 +72,5 @@ These inductions are tuned to provide high end hp with pretty bad low end torque
 
 | Dynamo Aftermarket Kits |
 | :---: |
-| ![](../.gitbook/assets/elitegreeninduction.png) |
+| ![](../.gitbook/assets/elitegreenforcedinduction.png) |
 
