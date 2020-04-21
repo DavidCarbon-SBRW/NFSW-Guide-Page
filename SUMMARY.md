@@ -31,6 +31,7 @@
     * [Daily Hunter](achievements/list/driver-achievements/daily-hunter.md)
     * [Legendary Driver](achievements/list/driver-achievements/legendary-driver.md)
     * [Level Up](achievements/list/driver-achievements/level-up.md)
+    * [Open Beta](achievements/list/driver-achievements/open-beta.md)
 
 ## Best In Class
 
