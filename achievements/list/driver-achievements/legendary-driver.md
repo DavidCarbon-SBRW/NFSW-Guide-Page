@@ -1,8 +1,7 @@
 ---
 description: >-
-  Legendary Driver is a Driver Achievement which was added to the game on April
-  10th 2013. Players can obtain rewards from this Achievement by completing its
-  ranks. No Driver Points can be obtained from
+  Players can obtain rewards from this Achievement by completing its ranks. No
+  Driver Points can be obtained from this Achievement.
 ---
 
 # Legendary Driver
