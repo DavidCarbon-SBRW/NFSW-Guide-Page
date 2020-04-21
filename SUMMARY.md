@@ -37,6 +37,12 @@
   * [Lamborghini](cars/list/lamborghini.md)
   * [Lancia](cars/list/lancia.md)
   * [Lexus](cars/list/lexus.md)
+  * [Lotus](cars/list/lotus.md)
+  * [Marussia](cars/list/marussia.md)
+  * [Mazda](cars/list/mazda.md)
+  * [McLaren](cars/list/mclaren.md)
+  * [Mercedes-Benz](cars/list/mercedes-benz.md)
+  * [Mitsubishi](cars/list/mitsubishi.md)
   * [Volkswagen](cars/list/volkswagen.md)
 
 ## Power-Ups
