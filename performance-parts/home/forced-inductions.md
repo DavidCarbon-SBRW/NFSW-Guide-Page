@@ -10,15 +10,15 @@ Somewhere in your life you've heard and/or read about a big blower in a muscle c
 
 | Amerikon SpeedSystems | Gromlen |
 | :---: | :---: |
-| ![](../.gitbook/assets/amerikon_induction.png) | ![](../.gitbook/assets/gromlen_induction.png) |
+| ![](../../.gitbook/assets/amerikon_induction.png) | ![](../../.gitbook/assets/gromlen_induction.png) |
 
 | Medion | Transtek |
 | :---: | :---: |
-| ![](../.gitbook/assets/medion_induction.png) | ![](../.gitbook/assets/transtek_induction.png) |
+| ![](../../.gitbook/assets/medion_induction.png) | ![](../../.gitbook/assets/transtek_induction.png) |
 
 | Quartz Speed Packages |
 | :---: |
-| ![](../.gitbook/assets/elitebeigeforcedinduction.png) |
+| ![](../../.gitbook/assets/elitebeigeforcedinduction.png) |
 
 {% hint style="info" %}
 **Blue Performance Parts**
@@ -28,15 +28,15 @@ This is more or less the inverse of the Gold, tuned for better response at low-R
 
 | Dawndraft | Kestrel |
 | :---: | :---: |
-| ![](../.gitbook/assets/dawndraft_induction.png) | ![](../.gitbook/assets/kestrel_induction.png) |
+| ![](../../.gitbook/assets/dawndraft_induction.png) | ![](../../.gitbook/assets/kestrel_induction.png) |
 
 | Velocicom | Zero Tuning Mods |
 | :---: | :---: |
-| ![](../.gitbook/assets/velocicom_induction.png) | ![](../.gitbook/assets/zero_induction.png) |
+| ![](../../.gitbook/assets/velocicom_induction.png) | ![](../../.gitbook/assets/zero_induction.png) |
 
 | Stick Motorsport |
 | :---: |
-| ![](../.gitbook/assets/eliteblueforcedinduction.png) |
+| ![](../../.gitbook/assets/eliteblueforcedinduction.png) |
 
 {% hint style="danger" %}
 **Red Performance Parts**
@@ -46,15 +46,15 @@ These are not made to be strong. It is a turbo system that actually spools quick
 
 | Nova-T | Richter |
 | :---: | :---: |
-| ![](../.gitbook/assets/nova-t_induction.png) | ![](../.gitbook/assets/richter_induction.png) |
+| ![](../../.gitbook/assets/nova-t_induction.png) | ![](../../.gitbook/assets/richter_induction.png) |
 
 | Ventura | Attack Motorsport |
 | :---: | :---: |
-| ![](../.gitbook/assets/ventura_induction.png) | ![](../.gitbook/assets/attack_induction.png) |
+| ![](../../.gitbook/assets/ventura_induction.png) | ![](../../.gitbook/assets/attack_induction.png) |
 
 | Tear |
 | :---: |
-| ![](../.gitbook/assets/eliteredforcedinduction.png) |
+| ![](../../.gitbook/assets/eliteredforcedinduction.png) |
 
 {% hint style="success" %}
 **Green Performance Parts**
@@ -64,13 +64,13 @@ Screaming like a banshee, the Green turbo delivers sheer power at high-RPM and i
 
 | Omnia Racegruppe | Norset |
 | :---: | :---: |
-| ![](../.gitbook/assets/omnia_induction.png) | ![](../.gitbook/assets/norset_induction.png) |
+| ![](../../.gitbook/assets/omnia_induction.png) | ![](../../.gitbook/assets/norset_induction.png) |
 
 | URSA Motorsport | SpeedSciens |
 | :---: | :---: |
-| ![](../.gitbook/assets/ursa_induction.png) | ![](../.gitbook/assets/speedsciens_induction.png) |
+| ![](../../.gitbook/assets/ursa_induction.png) | ![](../../.gitbook/assets/speedsciens_induction.png) |
 
 | Dynamo Aftermarket Kits |
 | :---: |
-| ![](../.gitbook/assets/elitegreenforcedinduction.png) |
+| ![](../../.gitbook/assets/elitegreenforcedinduction.png) |
 

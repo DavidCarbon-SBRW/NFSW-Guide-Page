@@ -10,15 +10,15 @@ These engines are all about delivering the middle of the road power output. Thin
 
 | Amerikon SpeedSystems | Gromlen |
 | :---: | :---: |
-| ![](../.gitbook/assets/amerikon_engine.png) | ![](../.gitbook/assets/gromlen_engine.png) |
+| ![](../../.gitbook/assets/amerikon_engine.png) | ![](../../.gitbook/assets/gromlen_engine.png) |
 
 | Medion | Transtek |
 | :---: | :---: |
-| ![](../.gitbook/assets/medion_engine.png) | ![](../.gitbook/assets/transtek_engine.png) |
+| ![](../../.gitbook/assets/medion_engine.png) | ![](../../.gitbook/assets/transtek_engine.png) |
 
 | Quartz Speed Packages |
 | :---: |
-| ![](../.gitbook/assets/elitebeigeengine.png) |
+| ![](../../.gitbook/assets/elitebeigeengine.png) |
 
 {% hint style="info" %}
 **Blue Performance Parts**
@@ -28,15 +28,15 @@ These engines are high-torque powerplant designed to pack quite a punch, allowin
 
 | Dawndraft | Kestrel |
 | :---: | :---: |
-| ![](../.gitbook/assets/dawndraft_engine.png) | ![](../.gitbook/assets/kestrel_engine.png) |
+| ![](../../.gitbook/assets/dawndraft_engine.png) | ![](../../.gitbook/assets/kestrel_engine.png) |
 
 | Velocicom | Zero Tuning Mods |
 | :---: | :---: |
-| ![](../.gitbook/assets/velocicom_engine.png) | ![](../.gitbook/assets/zero_engine.png) |
+| ![](../../.gitbook/assets/velocicom_engine.png) | ![](../../.gitbook/assets/zero_engine.png) |
 
 | Stick Motorsport |
 | :---: |
-| ![](../.gitbook/assets/eliteblueengine.png) |
+| ![](../../.gitbook/assets/eliteblueengine.png) |
 
 {% hint style="danger" %}
 **Red Performance Parts**
@@ -46,15 +46,15 @@ These engines are considered to be the worst brand for power parts according to 
 
 | Nova-T | Richter |
 | :---: | :---: |
-| ![](../.gitbook/assets/nova-t_engine.png) | ![](../.gitbook/assets/richter_engine.png) |
+| ![](../../.gitbook/assets/nova-t_engine.png) | ![](../../.gitbook/assets/richter_engine.png) |
 
 | Ventura | Attack Motorsport |
 | :---: | :---: |
-| ![](../.gitbook/assets/ventura_engine.png) | ![](../.gitbook/assets/attack_engine.png) |
+| ![](../../.gitbook/assets/ventura_engine.png) | ![](../../.gitbook/assets/attack_engine.png) |
 
 | Tear |
 | :---: |
-| ![](../.gitbook/assets/eliteredengine.png) |
+| ![](../../.gitbook/assets/eliteredengine.png) |
 
 {% hint style="success" %}
 **Green Performance Parts**
@@ -64,13 +64,13 @@ These engines are tuned to provide high end hp with pretty bad low end torque, r
 
 | Omnia Racegruppe | Norset |
 | :---: | :---: |
-| ![](../.gitbook/assets/omnia_engine.png) | ![](../.gitbook/assets/norset_engine.png) |
+| ![](../../.gitbook/assets/omnia_engine.png) | ![](../../.gitbook/assets/norset_engine.png) |
 
 | URSA Motorsport | SpeedSciens |
 | :---: | :---: |
-| ![](../.gitbook/assets/ursa_engine.png) | ![](../.gitbook/assets/speedsciens_engine.png) |
+| ![](../../.gitbook/assets/ursa_engine.png) | ![](../../.gitbook/assets/speedsciens_engine.png) |
 
 | Dynamo Aftermarket Kits |
 | :---: |
-| ![](../.gitbook/assets/elitegreenengine.png) |
+| ![](../../.gitbook/assets/elitegreenengine.png) |
 

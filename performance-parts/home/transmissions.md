@@ -10,15 +10,15 @@ Somewhere in your life you've heard and/or read about a big blower in a muscle c
 
 | Amerikon SpeedSystems | Gromlen |
 | :---: | :---: |
-| ![](../.gitbook/assets/amerikon_transmission.png) | ![](../.gitbook/assets/gromlen_transmission.png) |
+| ![](../../.gitbook/assets/amerikon_transmission.png) | ![](../../.gitbook/assets/gromlen_transmission.png) |
 
 | Medion | Transtek |
 | :---: | :---: |
-| ![](../.gitbook/assets/medion_transmission.png) | ![](../.gitbook/assets/transtek_transmission.png) |
+| ![](../../.gitbook/assets/medion_transmission.png) | ![](../../.gitbook/assets/transtek_transmission.png) |
 
 | Quartz Speed Packages |
 | :---: |
-| ![](../.gitbook/assets/elitebeigetransmission.png) |
+| ![](../../.gitbook/assets/elitebeigetransmission.png) |
 
 {% hint style="info" %}
 **Blue Performance Parts**
@@ -28,15 +28,15 @@ This is more or less the inverse of the Gold, tuned for better response at low-R
 
 | Dawndraft | Kestrel |
 | :---: | :---: |
-| ![](../.gitbook/assets/dawndraft_transmission.png) | ![](../.gitbook/assets/kestrel_transmission.png) |
+| ![](../../.gitbook/assets/dawndraft_transmission.png) | ![](../../.gitbook/assets/kestrel_transmission.png) |
 
 | Velocicom | Zero Tuning Mods |
 | :---: | :---: |
-| ![](../.gitbook/assets/velocicom_transmission.png) | ![](../.gitbook/assets/zero_transmission.png) |
+| ![](../../.gitbook/assets/velocicom_transmission.png) | ![](../../.gitbook/assets/zero_transmission.png) |
 
 | Stick Motorsport |
 | :---: |
-| ![](../.gitbook/assets/elitebluetransmission.png) |
+| ![](../../.gitbook/assets/elitebluetransmission.png) |
 
 {% hint style="danger" %}
 **Red Performance Parts**
@@ -46,15 +46,15 @@ These are not made to be strong. It is a turbo system that actually spools quick
 
 | Nova-T | Richter |
 | :---: | :---: |
-| ![](../.gitbook/assets/nova-t_transmission.png) | ![](../.gitbook/assets/richter_transmission.png) |
+| ![](../../.gitbook/assets/nova-t_transmission.png) | ![](../../.gitbook/assets/richter_transmission.png) |
 
 | Ventura | Attack Motorsport |
 | :---: | :---: |
-| ![](../.gitbook/assets/ventura_transmission.png) | ![](../.gitbook/assets/attack_transmission.png) |
+| ![](../../.gitbook/assets/ventura_transmission.png) | ![](../../.gitbook/assets/attack_transmission.png) |
 
 | Tear |
 | :---: |
-| ![](../.gitbook/assets/eliteredtransmission.png) |
+| ![](../../.gitbook/assets/eliteredtransmission.png) |
 
 {% hint style="success" %}
 **Green Performance Parts**
@@ -64,13 +64,13 @@ Screaming like a banshee, the Green turbo delivers sheer power at high-RPM and i
 
 | Omnia Racegruppe | Norset |
 | :---: | :---: |
-| ![](../.gitbook/assets/omnia_transmission.png) | ![](../.gitbook/assets/norset_transmission.png) |
+| ![](../../.gitbook/assets/omnia_transmission.png) | ![](../../.gitbook/assets/norset_transmission.png) |
 
 | URSA Motorsport | SpeedSciens |
 | :---: | :---: |
-| ![](../.gitbook/assets/ursa_transmission.png) | ![](../.gitbook/assets/speedsciens_transmission.png) |
+| ![](../../.gitbook/assets/ursa_transmission.png) | ![](../../.gitbook/assets/speedsciens_transmission.png) |
 
 | Dynamo Aftermarket Kits |
 | :---: |
-| ![](../.gitbook/assets/elitegreentransmission.png) |
+| ![](../../.gitbook/assets/elitegreentransmission.png) |
 
