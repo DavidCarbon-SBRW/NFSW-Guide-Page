@@ -27,6 +27,7 @@
 ## Achievements
 
 * [Home](achievements/list.md)
+* [Daily Hunter](achievements/daily-hunter.md)
 
 ## Best In Class
 
