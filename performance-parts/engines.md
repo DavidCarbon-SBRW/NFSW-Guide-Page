@@ -2,28 +2,33 @@
 
 ## Getting Super Powers
 
-|  |  |  |  |  |
-| :---: | :---: | :---: | :---: | :---: |
-| ![](../.gitbook/assets/amerikon_engine.png) |  |  |  |  |
-
-Becoming a super hero is a fairly straight forward process:
-
-```
-$ give me super-powers
-```
-
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+{% hint style="warning" %}
+**Yellow Performance Parts**
 {% endhint %}
 
-Once you're strong enough, save the world:
+These engines are all about delivering the middle of the road power output. Think of this as a Ram Air Intake upgrade, which increases engine power in the lower-mid range. It's usually muscle cars such as a Dodge Viper SRT10 or its full-size relative, the Dodge Charger SRT8, that benefit from this engine, but it will also work for exotic cars like the Ford GT and the SLR McLaren.
 
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
+| Amerikon SpeedSystems | Gromlen |
+| :---: | :---: |
+| ![](../.gitbook/assets/amerikon_engine.png) | ![](../.gitbook/assets/gromlen_engine.png) |
 
+| Medion | Transtek |
+| :---: | :---: |
+| ![](../.gitbook/assets/medion_engine.png) | ![](../.gitbook/assets/transtek_engine.png) |
 
+| Quartz Speed Packages |
+| :---: |
+| ![](../.gitbook/assets/elitebeigeengine.png) |
+
+{% hint style="info" %}
+**Blue Performance Parts**
+{% endhint %}
+
+{% hint style="danger" %}
+**Red Performance Parts**
+{% endhint %}
+
+{% hint style="success" %}
+**Green Performance Parts**
+{% endhint %}
 
