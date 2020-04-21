@@ -46,15 +46,15 @@ These engines are considered to be the worst brand for power parts according to 
 
 | Amerikon SpeedSystems | Gromlen |
 | :---: | :---: |
-| ![](../.gitbook/assets/amerikon_engine.png) | ![](../.gitbook/assets/gromlen_engine.png) |
+| ![](../.gitbook/assets/nova-t_engine.png) | ![](../.gitbook/assets/richter_engine.png) |
 
 | Medion | Transtek |
 | :---: | :---: |
-| ![](../.gitbook/assets/medion_engine.png) | ![](../.gitbook/assets/transtek_engine.png) |
+| ![](../.gitbook/assets/ventura_engine.png) | ![](../.gitbook/assets/attack_engine.png) |
 
 | Quartz Speed Packages |
 | :---: |
-| ![](../.gitbook/assets/elitebeigeengine.png) |
+| ![](../.gitbook/assets/eliteredengine.png) |
 
 {% hint style="success" %}
 **Green Performance Parts**
