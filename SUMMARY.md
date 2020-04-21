@@ -4,35 +4,36 @@
 
 ## Performance Parts
 
-* [Home](performance-parts/home/README.md)
-  * [Engines](performance-parts/home/engines.md)
-  * [Transmissions](performance-parts/home/transmissions.md)
-  * [Forced Inductions](performance-parts/home/forced-inductions.md)
-  * [Tires](performance-parts/home/tires.md)
-  * [Brakes](performance-parts/home/brakes.md)
-  * [Suspensions](performance-parts/home/suspensions.md)
+* [Home](performance-parts/list/README.md)
+  * [Engines](performance-parts/list/engines.md)
+  * [Transmissions](performance-parts/list/transmissions.md)
+  * [Forced Inductions](performance-parts/list/forced-inductions.md)
+  * [Tires](performance-parts/list/tires.md)
+  * [Brakes](performance-parts/list/brakes.md)
+  * [Suspensions](performance-parts/list/suspensions.md)
 
 ## Cars
 
-* [Untitled](cars/untitled.md)
+* [Home](cars/list.md)
 
 ## Power-Ups
 
-* [Untitled](power-ups/untitled.md)
+* [Home](power-ups/list.md)
 
 ## Skill Mods
 
-* [Untitled](skill-mods/untitled.md)
+* [Home](skill-mods/list.md)
 
 ## Achievements
 
-* [Untitled](achievements/untitled.md)
+* [Home](achievements/list/README.md)
+  * [Daily Hunter](achievements/list/daily-hunter.md)
 
 ## Best In Class
 
-* [Untitled](best-in-class/untitled.md)
+* [Home](best-in-class/list.md)
 
 ## Locations
 
-* [Untitled](locations/untitled.md)
+* [Home](locations/list.md)
 
