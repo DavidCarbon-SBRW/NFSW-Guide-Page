@@ -23,6 +23,7 @@
   * [BMW](cars/list/bmw/README.md)
     * [M3 E92](cars/list/bmw/m3-e92.md)
   * [Bugatti](cars/list/bugatti.md)
+  * [Volkswagen](cars/list/volkswagen.md)
 
 ## Power-Ups
 
