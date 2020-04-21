@@ -26,15 +26,51 @@ These engines are all about delivering the middle of the road power output. Thin
 
 These engines are high-torque powerplant designed to pack quite a punch, allowing for quicker acceleration. What this would be suitable for is a low-RPM car, i.e. many of the classic muscle cars in the game \(Chevelle SS especially\), or in a real-life application, a high-torque AMG Mercedes.
 
+| Amerikon SpeedSystems | Gromlen |
+| :---: | :---: |
+| ![](../.gitbook/assets/amerikon_engine.png) | ![](../.gitbook/assets/gromlen_engine.png) |
+
+| Medion | Transtek |
+| :---: | :---: |
+| ![](../.gitbook/assets/medion_engine.png) | ![](../.gitbook/assets/transtek_engine.png) |
+
+| Quartz Speed Packages |
+| :---: |
+| ![](../.gitbook/assets/elitebeigeengine.png) |
+
 {% hint style="danger" %}
 **Red Performance Parts**
 {% endhint %}
 
 These engines are considered to be the worst brand for power parts according to the NFSW community, is the lighter version of AmerikonSS/Gromlen/Medion. The difference between the two is that this is NOT designed for V10 engines; rather they're more Inline oriented \(Supra, Lancer Evolution and others of this nature\). This is a must for every turbocharged engine, as too much horsepower will kill the car's torque, and too much torque will hold it back from its true potential.
 
+| Amerikon SpeedSystems | Gromlen |
+| :---: | :---: |
+| ![](../.gitbook/assets/amerikon_engine.png) | ![](../.gitbook/assets/gromlen_engine.png) |
+
+| Medion | Transtek |
+| :---: | :---: |
+| ![](../.gitbook/assets/medion_engine.png) | ![](../.gitbook/assets/transtek_engine.png) |
+
+| Quartz Speed Packages |
+| :---: |
+| ![](../.gitbook/assets/elitebeigeengine.png) |
+
 {% hint style="success" %}
 **Green Performance Parts**
 {% endhint %}
 
 These engines are tuned to provide high end hp with pretty bad low end torque, requiring an induction 9 times out of 10 to help out. Do note that this should be used only on cars with the peak near the high range \(Nissan Skyline GT-R\), rather than cars that still have quite a ways to go between their peak power and redline \(Mazda RX-7\).
+
+| Amerikon SpeedSystems | Gromlen |
+| :---: | :---: |
+| ![](../.gitbook/assets/amerikon_engine.png) | ![](../.gitbook/assets/gromlen_engine.png) |
+
+| Medion | Transtek |
+| :---: | :---: |
+| ![](../.gitbook/assets/medion_engine.png) | ![](../.gitbook/assets/transtek_engine.png) |
+
+| Quartz Speed Packages |
+| :---: |
+| ![](../.gitbook/assets/elitebeigeengine.png) |
 
