@@ -28,6 +28,7 @@
 
 * [Home](achievements/list/README.md)
   * [Driver Achievements](achievements/list/driver-achievements/README.md)
+    * [Legendary Driver](achievements/list/driver-achievements/legendary-driver.md)
     * [Daily Hunter](achievements/list/driver-achievements/daily-hunter.md)
 
 ## Best In Class
