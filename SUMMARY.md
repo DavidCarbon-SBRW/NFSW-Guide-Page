@@ -54,6 +54,7 @@
   * [Shelby](cars/list/shelby.md)
   * [Subaru](cars/list/subaru.md)
   * [Toyota](cars/list/toyota.md)
+  * [Vauxhall](cars/list/vauxhall.md)
   * [Volkswagen](cars/list/volkswagen.md)
 
 ## Power-Ups
