@@ -32,6 +32,11 @@
   * [Hummer](cars/list/hummer.md)
   * [Infiniti](cars/list/infiniti.md)
   * [Jaguar](cars/list/jaguar.md)
+  * [Jeep](cars/list/jeep.md)
+  * [Koenigsegg](cars/list/koenigsegg.md)
+  * [Lamborghini](cars/list/lamborghini.md)
+  * [Lancia](cars/list/lancia.md)
+  * [Lexus](cars/list/lexus.md)
   * [Volkswagen](cars/list/volkswagen.md)
 
 ## Power-Ups
