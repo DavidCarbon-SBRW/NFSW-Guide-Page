@@ -4,9 +4,7 @@
 
 |  |  |  |  |  |
 | :---: | :---: | :---: | :---: | :---: |
-|  |  |  |  |  |
-
-![](../.gitbook/assets/amerikon_engine.png)
+| ![](../.gitbook/assets/amerikon_engine.png) |  |  |  |  |
 
 Becoming a super hero is a fairly straight forward process:
 
