@@ -26,7 +26,7 @@ The car has a stock top speed of 308 km/h \(191 mph\) for Class A. Its accelerat
 
 ### Skillmods
 
-|  |  |  |  |  |  |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|  |  |  |  |  |  |
+|  |  |  |  |  |
+| :---: | :---: | :---: | :---: | :---: |
+| ![](../../../.gitbook/assets/iconskillmod_super_shot.png) | ![](../../../.gitbook/assets/iconskillmod_super_shot.png) | ![](../../../.gitbook/assets/iconskillmod_extended_nitrous.png) | ![](../../../.gitbook/assets/iconskillmod_headstart.png) | ![](../../../.gitbook/assets/iconskillmod_redline.png) |
 
