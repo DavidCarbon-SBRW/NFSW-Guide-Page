@@ -11,3 +11,19 @@
 * [Brakes](performance-parts/brakes.md)
 * [Tires](performance-parts/tires.md)
 
+## Cars
+
+* [Untitled](cars/untitled.md)
+
+## Power-Ups
+
+* [Untitled](power-ups/untitled.md)
+
+## Skill Mods
+
+* [Untitled](skill-mods/untitled.md)
+
+## Achievements
+
+* [Untitled](achievements/untitled.md)
+
