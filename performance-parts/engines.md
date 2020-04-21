@@ -28,15 +28,15 @@ These engines are high-torque powerplant designed to pack quite a punch, allowin
 
 | Amerikon SpeedSystems | Gromlen |
 | :---: | :---: |
-| ![](../.gitbook/assets/amerikon_engine.png) | ![](../.gitbook/assets/gromlen_engine.png) |
+| ![](../.gitbook/assets/dawndraft_engine.png) | ![](../.gitbook/assets/kestrel_engine.png) |
 
 | Medion | Transtek |
 | :---: | :---: |
-| ![](../.gitbook/assets/medion_engine.png) | ![](../.gitbook/assets/transtek_engine.png) |
+| ![](../.gitbook/assets/velocicom_engine.png) | ![](../.gitbook/assets/zero_engine.png) |
 
 | Quartz Speed Packages |
 | :---: |
-| ![](../.gitbook/assets/elitebeigeengine.png) |
+| ![](../.gitbook/assets/eliteblueengine.png) |
 
 {% hint style="danger" %}
 **Red Performance Parts**
