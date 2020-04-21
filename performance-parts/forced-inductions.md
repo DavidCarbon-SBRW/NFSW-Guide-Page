@@ -6,7 +6,7 @@
 **Yellow Performance Parts**
 {% endhint %}
 
-These inductions are all about delivering the middle of the road power output. Think of this as a Ram Air Intake upgrade, which increases induction power in the lower-mid range. It's usually muscle cars such as a Dodge Viper SRT10 or its full-size relative, the Dodge Charger SRT8, that benefit from this induction, but it will also work for exotic cars like the Ford GT and the SLR McLaren.
+Somewhere in your life you've heard and/or read about a big blower in a muscle car. Such is the case here, as the Gold Induction delivers raw power widespread across the RPM ranges in engines that are more HP-oreinted (Exige Cup 260, Shelby GT500 SS to name a few). It improves both acceleration and top speed, although it has a bit of a bias toward the horsepower side of things. It takes a while to make power, but the boost is massive once it does.
 
 | Amerikon SpeedSystems | Gromlen |
 | :---: | :---: |
@@ -24,7 +24,7 @@ These inductions are all about delivering the middle of the road power output. T
 **Blue Performance Parts**
 {% endhint %}
 
-These inductions are high-torque powerplant designed to pack quite a punch, allowing for quicker acceleration. What this would be suitable for is a low-RPM car, i.e. many of the classic muscle cars in the game \(Chevelle SS especially\), or in a real-life application, a high-torque AMG Mercedes.
+This is more or less the inverse of the Gold, tuned for better response at low-RPM. What this means is that it has smaller components and as a result is capable of making more power quicker than the Golf. The drawback with this induction, however, is that you get less power up top. This is suitable for torquier engines, namely those of classic muscle cars.
 
 | Dawndraft | Kestrel |
 | :---: | :---: |
@@ -42,7 +42,7 @@ These inductions are high-torque powerplant designed to pack quite a punch, allo
 **Red Performance Parts**
 {% endhint %}
 
-These inductions are considered to be the worst brand for power parts according to the NFSW community, is the lighter version of AmerikonSS/Gromlen/Medion. The difference between the two is that this is NOT designed for V10 inductions; rather they're more Inline oriented \(Supra, Lancer Evolution and others of this nature\). This is a must for every turbocharged induction, as too much horsepower will kill the car's torque, and too much torque will hold it back from its true potential.
+These are not made to be strong. It is a turbo system that actually spools quickly up to speed, compromising top end boost in the process. This turbo is optional to install, but if you were to install one, it is best applicalbe to high-RPM cars, the Murcielago LP640 and the Porsche 911 GT3 RS being prime examples.
 
 | Nova-T | Richter |
 | :---: | :---: |
@@ -60,7 +60,7 @@ These inductions are considered to be the worst brand for power parts according 
 **Green Performance Parts**
 {% endhint %}
 
-These inductions are tuned to provide high end hp with pretty bad low end torque, requiring an induction 9 times out of 10 to help out. Do note that this should be used only on cars with the peak near the high range \(Nissan Skyline GT-R\), rather than cars that still have quite a ways to go between their peak power and redline \(Mazda RX-7\).
+Screaming like a banshee, the Green turbo delivers sheer power at high-RPM and is thus the perfect brand for many turbocharged and/or naturally-aspirated cars like the RX-7 or the Corvette Z06 (yes, the Z06 carries a turbo, not a supercharger). It takes much longer to spool up than the Red, but it does deliver more boost once it reaches the top. Usually, the more peaky the engine, the more Boost it would need, but DO NOT apply this to a Green Engine as the car would die off in the lower range.
 
 | Omnia Racegruppe | Norset |
 | :---: | :---: |
