@@ -10,33 +10,33 @@ Somewhere in your life you've heard and/or read about a big blower in a muscle c
 
 | Amerikon SpeedSystems | Gromlen |
 | :---: | :---: |
-| ![](../.gitbook/assets/gromlen_transmission.png) | ![](https://github.com/DavidCarbon-SBRW/NFSW-Guide-Page/tree/48312f11943079ed1961f79cf86599e01054e4d5/.gitbook/assets/gromlen_Transmission.png) |
+| ![](../.gitbook/assets/amerikon_transmission.png) | ![](../.gitbook/assets/gromlen_transmission.png) |
 
 | Medion | Transtek |
 | :---: | :---: |
-| ![](https://github.com/DavidCarbon-SBRW/NFSW-Guide-Page/tree/48312f11943079ed1961f79cf86599e01054e4d5/.gitbook/assets/medion_Transmission.png) | ![](https://github.com/DavidCarbon-SBRW/NFSW-Guide-Page/tree/48312f11943079ed1961f79cf86599e01054e4d5/.gitbook/assets/transtek_Transmission.png) |
+| ![](../.gitbook/assets/medion_transmission.png) | ![](../.gitbook/assets/transtek_transmission.png) |
 
 | Quartz Speed Packages |
 | :---: |
-| ![](https://github.com/DavidCarbon-SBRW/NFSW-Guide-Page/tree/48312f11943079ed1961f79cf86599e01054e4d5/.gitbook/assets/elitebeigeforcedTransmission.png) |
+| ![](../.gitbook/assets/elitebeigetransmission.png) |
 
 {% hint style="info" %}
 **Blue Performance Parts**
 {% endhint %}
 
-This is more or less the inverse of the Gold, tuned for better response at low-RPM. What this means is that it has smaller components and as a result is capable of making more power quicker than the Golf. The drawback with this Transmission, however, is that you get less power up top. This is suitable for torquier engines, namely those of classic muscle cars.
+This is more or less the inverse of the Gold, tuned for better response at low-RPM. What this means is that it has smaller components and as a result is capable of making more power quicker than the Golf. The drawback with this transmission, however, is that you get less power up top. This is suitable for torquier engines, namely those of classic muscle cars.
 
 | Dawndraft | Kestrel |
 | :---: | :---: |
-| ![](https://github.com/DavidCarbon-SBRW/NFSW-Guide-Page/tree/48312f11943079ed1961f79cf86599e01054e4d5/.gitbook/assets/dawndraft_Transmission.png) | ![](https://github.com/DavidCarbon-SBRW/NFSW-Guide-Page/tree/48312f11943079ed1961f79cf86599e01054e4d5/.gitbook/assets/kestrel_Transmission.png) |
+| ![](../.gitbook/assets/dawndraft_transmission.png) | ![](../.gitbook/assets/kestrel_transmission.png) |
 
 | Velocicom | Zero Tuning Mods |
 | :---: | :---: |
-| ![](https://github.com/DavidCarbon-SBRW/NFSW-Guide-Page/tree/48312f11943079ed1961f79cf86599e01054e4d5/.gitbook/assets/velocicom_Transmission.png) | ![](https://github.com/DavidCarbon-SBRW/NFSW-Guide-Page/tree/48312f11943079ed1961f79cf86599e01054e4d5/.gitbook/assets/zero_Transmission.png) |
+| ![](../.gitbook/assets/velocicom_transmission.png) | ![](../.gitbook/assets/zero_transmission.png) |
 
 | Stick Motorsport |
 | :---: |
-| ![](https://github.com/DavidCarbon-SBRW/NFSW-Guide-Page/tree/48312f11943079ed1961f79cf86599e01054e4d5/.gitbook/assets/eliteblueforcedTransmission.png) |
+| ![](../.gitbook/assets/elitebluetransmission.png) |
 
 {% hint style="danger" %}
 **Red Performance Parts**
@@ -46,15 +46,15 @@ These are not made to be strong. It is a turbo system that actually spools quick
 
 | Nova-T | Richter |
 | :---: | :---: |
-| ![](https://github.com/DavidCarbon-SBRW/NFSW-Guide-Page/tree/48312f11943079ed1961f79cf86599e01054e4d5/.gitbook/assets/nova-t_Transmission.png) | ![](https://github.com/DavidCarbon-SBRW/NFSW-Guide-Page/tree/48312f11943079ed1961f79cf86599e01054e4d5/.gitbook/assets/richter_Transmission.png) |
+| ![](../.gitbook/assets/nova-t_transmission.png) | ![](../.gitbook/assets/richter_transmission.png) |
 
 | Ventura | Attack Motorsport |
 | :---: | :---: |
-| ![](https://github.com/DavidCarbon-SBRW/NFSW-Guide-Page/tree/48312f11943079ed1961f79cf86599e01054e4d5/.gitbook/assets/ventura_Transmission.png) | ![](https://github.com/DavidCarbon-SBRW/NFSW-Guide-Page/tree/48312f11943079ed1961f79cf86599e01054e4d5/.gitbook/assets/attack_Transmission.png) |
+| ![](../.gitbook/assets/ventura_transmission.png) | ![](../.gitbook/assets/attack_transmission.png) |
 
 | Tear |
 | :---: |
-| ![](../.gitbook/assets/dawndraft_transmission.png) |
+| ![](../.gitbook/assets/eliteredtransmission.png) |
 
 {% hint style="success" %}
 **Green Performance Parts**
@@ -64,13 +64,13 @@ Screaming like a banshee, the Green turbo delivers sheer power at high-RPM and i
 
 | Omnia Racegruppe | Norset |
 | :---: | :---: |
-| ![](https://github.com/DavidCarbon-SBRW/NFSW-Guide-Page/tree/48312f11943079ed1961f79cf86599e01054e4d5/.gitbook/assets/omnia_Transmission.png) | ![](https://github.com/DavidCarbon-SBRW/NFSW-Guide-Page/tree/48312f11943079ed1961f79cf86599e01054e4d5/.gitbook/assets/norset_Transmission.png) |
+| ![](../.gitbook/assets/omnia_transmission.png) | ![](../.gitbook/assets/norset_transmission.png) |
 
 | URSA Motorsport | SpeedSciens |
 | :---: | :---: |
-| ![](https://github.com/DavidCarbon-SBRW/NFSW-Guide-Page/tree/48312f11943079ed1961f79cf86599e01054e4d5/.gitbook/assets/ursa_Transmission.png) | ![](https://github.com/DavidCarbon-SBRW/NFSW-Guide-Page/tree/48312f11943079ed1961f79cf86599e01054e4d5/.gitbook/assets/speedsciens_Transmission.png) |
+| ![](../.gitbook/assets/ursa_transmission.png) | ![](../.gitbook/assets/speedsciens_transmission.png) |
 
 | Dynamo Aftermarket Kits |
 | :---: |
-| ![](https://github.com/DavidCarbon-SBRW/NFSW-Guide-Page/tree/48312f11943079ed1961f79cf86599e01054e4d5/.gitbook/assets/elitegreenforcedTransmission.png) |
+| ![](../.gitbook/assets/elitegreentransmission.png) |
 
