@@ -14,7 +14,10 @@
 
 ## Cars
 
-* [Home](cars/list.md)
+* [Home](cars/list/README.md)
+  * [Aston](cars/list/aston.md)
+  * [Alfa](cars/list/alfa/README.md)
+    * [Romeo 8C Competizione](cars/list/alfa/romeo-8c-competizione.md)
 
 ## Power-Ups
 
