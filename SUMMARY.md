@@ -24,6 +24,14 @@
     * [M3 E92](cars/list/bmw/m3-e92.md)
   * [Bugatti](cars/list/bugatti.md)
   * [Cadillac](cars/list/cadillac.md)
+  * [Caterham](cars/list/caterham.md)
+  * [Chevrolet](cars/list/chevrolet.md)
+  * [Chrysler](cars/list/chrysler.md)
+  * [Dodge](cars/list/dodge.md)
+  * [Ford](cars/list/ford.md)
+  * [Hummer](cars/list/hummer.md)
+  * [Infiniti](cars/list/infiniti.md)
+  * [Jaguar](cars/list/jaguar.md)
   * [Volkswagen](cars/list/volkswagen.md)
 
 ## Power-Ups
