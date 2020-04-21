@@ -1,4 +1,4 @@
-# Engines
+# Forced Inductions
 
 ## Getting Super Powers
 
@@ -10,7 +10,7 @@ These engines are all about delivering the middle of the road power output. Thin
 
 | Amerikon SpeedSystems | Gromlen |
 | :---: | :---: |
-| ![](../.gitbook/assets/amerikon_engine.png) | ![](../.gitbook/assets/gromlen_engine.png) |
+| ![](../.gitbook/assets/amerikon_induction.png) | ![](../.gitbook/assets/gromlen_engine.png) |
 
 | Medion | Transtek |
 | :---: | :---: |
