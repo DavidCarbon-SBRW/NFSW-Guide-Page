@@ -32,7 +32,8 @@
     * [Legendary Driver](achievements/list/driver/legendary-driver.md)
     * [Level Up](achievements/list/driver/level-up.md)
     * [Open Beta](achievements/list/driver/open-beta.md)
-  * [Competition Achievements](achievements/list/competition.md)
+  * [Competition Achievements](achievements/list/competition/README.md)
+    * [A-Class Champion](achievements/list/competition/a-class-champion.md)
   * [Customization Achievements](achievements/list/customization.md)
   * [Collection Achievements](achievements/list/collection.md)
 
