@@ -64,13 +64,13 @@ These engines are tuned to provide high end hp with pretty bad low end torque, r
 
 | Amerikon SpeedSystems | Gromlen |
 | :---: | :---: |
-| ![](../.gitbook/assets/amerikon_engine.png) | ![](../.gitbook/assets/gromlen_engine.png) |
+| ![](../.gitbook/assets/omnia_engine.png) | ![](../.gitbook/assets/norset_engine.png) |
 
 | Medion | Transtek |
 | :---: | :---: |
-| ![](../.gitbook/assets/medion_engine.png) | ![](../.gitbook/assets/transtek_engine.png) |
+| ![](../.gitbook/assets/ursa_engine.png) | ![](../.gitbook/assets/speedsciens_engine.png) |
 
 | Quartz Speed Packages |
 | :---: |
-| ![](../.gitbook/assets/elitebeigeengine.png) |
+| ![](../.gitbook/assets/elitegreenengine.png) |
 
