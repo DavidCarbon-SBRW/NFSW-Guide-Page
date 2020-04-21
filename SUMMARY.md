@@ -27,7 +27,8 @@
 ## Achievements
 
 * [Home](achievements/list/README.md)
-  * [Daily Hunter](achievements/list/daily-hunter.md)
+  * [Driver Achievements](achievements/list/driver-achievements/README.md)
+    * [Daily Hunter](achievements/list/driver-achievements/daily-hunter.md)
 
 ## Best In Class
 
