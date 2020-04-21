@@ -43,6 +43,17 @@
   * [McLaren](cars/list/mclaren.md)
   * [Mercedes-Benz](cars/list/mercedes-benz.md)
   * [Mitsubishi](cars/list/mitsubishi.md)
+  * [Need for Speed: World](cars/list/need-for-speed-world.md)
+  * [Nissan](cars/list/nissan.md)
+  * [Pagani](cars/list/pagani.md)
+  * [Plymouth](cars/list/plymouth.md)
+  * [Pontiac](cars/list/pontiac.md)
+  * [Porsche](cars/list/porsche.md)
+  * [Renault](cars/list/renault.md)
+  * [Scion](cars/list/scion.md)
+  * [Shelby](cars/list/shelby.md)
+  * [Subaru](cars/list/subaru.md)
+  * [Toyota](cars/list/toyota.md)
   * [Volkswagen](cars/list/volkswagen.md)
 
 ## Power-Ups
