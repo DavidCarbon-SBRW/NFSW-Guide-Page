@@ -24,53 +24,53 @@ This suspension is set to a soft setting. The resulting behavior is better tract
 **Blue Performance Parts**
 {% endhint %}
 
-This is more or less the inverse of the Gold, tuned for better response at low-RPM. What this means is that it has smaller components and as a result is capable of making more power quicker than the Golf. The drawback with this induction, however, is that you get less power up top. This is suitable for torquier engines, namely those of classic muscle cars.
+Designed for drag and rally cars, this suspension semi-stiffens the car, reducing body roll and helping the car accelerate, but in turn causing turning oversteer from. Cars that would benefit from this are front-heavy all-wheel-drive cars which are known to, according to the physics of World, have a lot of understeer and at times even have trouble accelerating.
 
 | Dawndraft | Kestrel |
 | :---: | :---: |
-| ![](../../.gitbook/assets/dawndraft_Suspension.png) | ![](../../.gitbook/assets/kestrel_Suspension.png) |
+| ![](../../.gitbook/assets/Dawndraft_Suspension.png) | ![](../../.gitbook/assets/Kestrel_Suspension.png) |
 
 | Velocicom | Zero Tuning Mods |
 | :---: | :---: |
-| ![](../../.gitbook/assets/velocicom_Suspension.png) | ![](../../.gitbook/assets/zero_Suspension.png) |
+| ![](../../.gitbook/assets/Velocicom_Suspension.png) | ![](../../.gitbook/assets/Zero_Suspension.png) |
 
 | Stick Motorsport |
 | :---: |
-| ![](../../.gitbook/assets/eliteblueforcedinduction.png) |
+| ![](../../.gitbook/assets/EliteBlueSuspension.png) |
 
 {% hint style="danger" %}
 **Red Performance Parts**
 {% endhint %}
 
-These are not made to be strong. It is a turbo system that actually spools quickly up to speed, compromising top end boost in the process. This turbo is optional to install, but if you were to install one, it is best applicalbe to high-RPM cars, the Murcielago LP640 and the Porsche 911 GT3 RS being prime examples.
+Possibly the best suspension in the bracket, this stiffens up the car, thereby provoking more oversteer and delivering a crisper turn-in. Works well with many cars, whether they be drifters or have a hard time cornering. Note: This should be used only with rear-wheel drive as all-wheel drive cars don't respond well to this as they would the blue suspension.
 
 | Nova-T | Richter |
 | :---: | :---: |
-| ![](../../.gitbook/assets/nova-t_Suspension.png) | ![](../../.gitbook/assets/richter_Suspension.png) |
+| ![](../../.gitbook/assets/Nova-T_Suspension.png) | ![](../../.gitbook/assets/Richter_Suspension.png) |
 
 | Ventura | Attack Motorsport |
 | :---: | :---: |
-| ![](../../.gitbook/assets/ventura_Suspension.png) | ![](../../.gitbook/assets/attack_Suspension.png) |
+| ![](../../.gitbook/assets/Ventura_Suspension.png) | ![](../../.gitbook/assets/Attack_Suspension.png) |
 
 | Tear |
 | :---: |
-| ![](../../.gitbook/assets/eliteredforcedinduction.png) |
+| ![](../../.gitbook/assets/EliteRedSuspension.png) |
 
 {% hint style="success" %}
 **Green Performance Parts**
 {% endhint %}
 
-Screaming like a banshee, the Green turbo delivers sheer power at high-RPM and is thus the perfect brand for many turbocharged and/or naturally-aspirated cars like the RX-7 or the Corvette Z06 \(yes, the Z06 carries a turbo, not a supercharger\). It takes much longer to spool up than the Red, but it does deliver more boost once it reaches the top. Usually, the more peaky the engine, the more Boost it would need, but DO NOT apply this to a Green Engine as the car would die off in the lower range.
+As with the Yellow suspension, the Green suspension has a semi-soft tuned setup, though in contrast, it provides a great deal of stability as the car gains speed and is therefore an exceptional choice for a highway-tuned car. However, as Omnia/Norset/URSA fails in the handling department, be prepared to face major understeer.
 
 | Omnia Racegruppe | Norset |
 | :---: | :---: |
-| ![](../../.gitbook/assets/omnia_Suspension.png) | ![](../../.gitbook/assets/norset_Suspension.png) |
+| ![](../../.gitbook/assets/Omnia_Suspension.png) | ![](../../.gitbook/assets/Norset_Suspension.png) |
 
 | URSA Motorsport | SpeedSciens |
 | :---: | :---: |
-| ![](../../.gitbook/assets/ursa_Suspension.png) | ![](../../.gitbook/assets/speedsciens_Suspension.png) |
+| ![](../../.gitbook/assets/Ursa_Suspension.png) | ![](../../.gitbook/assets/Speedsciens_Suspension.png) |
 
 | Dynamo Aftermarket Kits |
 | :---: |
-| ![](../../.gitbook/assets/elitegreenforcedinduction.png) |
+| ![](../../.gitbook/assets/EliteGreenSuspension.png) |
 
