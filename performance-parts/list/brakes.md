@@ -25,6 +25,7 @@ A set of front and rear brakes tuned for a slight front bias. If no car you own 
 {% endhint %}
 
 A set of unbiased front and rear brakes with the purpose of quicker deceleration. These brakes do increase the risk of understeer due to the fact that they are very powerful and will lock your tires up, requiring earlier braking.
+
 | Dawndraft | Kestrel |
 | :---: | :---: |
 | ![](../../.gitbook/assets/Dawndraft_Brakes.png) | ![](../../.gitbook/assets/Kestrel_Brakes.png) |
@@ -59,7 +60,7 @@ A set of front and rear brakes tuned to have the rear lock up slightly before th
 **Green Performance Parts**
 {% endhint %}
 
-A set of unbiased front and rear brakes tuned kinda loosely. This was done to provide stable braking at high speeds(avoid locking up). The downfall is that the brakes have to be applied a bit earlier coming into a turn. These brakes should be paired up with Medion tires as the grip should slow you down.
+A set of unbiased front and rear brakes tuned kinda loosely. This was done to provide stable braking at high speeds\(avoid locking up\). The downfall is that the brakes have to be applied a bit earlier coming into a turn. These brakes should be paired up with Medion tires as the grip should slow you down.
 
 | Omnia Racegruppe | Norset |
 | :---: | :---: |

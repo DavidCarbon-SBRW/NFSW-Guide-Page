@@ -24,7 +24,7 @@ These tires improve the handling of a car all across the board by boosting grip 
 **Blue Performance Parts**
 {% endhint %}
 
-These are a set of tires that boost acceleration considerably by increasing traction. Their tendency to cause moderate oversteer, however, should be noted (although at times, if you know how, you can force power oversteer). ~ Credit to legor17 for the insight on power oversteer. Anecdotal information.
+These are a set of tires that boost acceleration considerably by increasing traction. Their tendency to cause moderate oversteer, however, should be noted \(although at times, if you know how, you can force power oversteer\). ~ Credit to legor17 for the insight on power oversteer. Anecdotal information.
 
 | Dawndraft | Kestrel |
 | :---: | :---: |
@@ -42,7 +42,7 @@ These are a set of tires that boost acceleration considerably by increasing trac
 **Red Performance Parts**
 {% endhint %}
 
-Designed for drifting, Nova-T/Richter/Ventura tires are perfect for known driftable cars (i.e. RX-7, 240SX, 350Z, 370Z, Silvia S15, AE116, etc.) as they help the car slide out in turns, basically the same function brakes with a rear bias have. These are also useful for track cars; however, as with the suspension of the same brand, this should be left to rear-wheel-drive vehicles.
+Designed for drifting, Nova-T/Richter/Ventura tires are perfect for known driftable cars \(i.e. RX-7, 240SX, 350Z, 370Z, Silvia S15, AE116, etc.\) as they help the car slide out in turns, basically the same function brakes with a rear bias have. These are also useful for track cars; however, as with the suspension of the same brand, this should be left to rear-wheel-drive vehicles.
 
 | Nova-T | Richter |
 | :---: | :---: |
