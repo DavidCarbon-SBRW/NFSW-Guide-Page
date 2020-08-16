@@ -68,6 +68,7 @@
 ## Achievements
 
 * [Home](achievements/list/README.md)
+  * [Driver Achievements](achievements/list/driver-achievements.md)
   * [Driver Achievements](achievements/list/driver/README.md)
     * [Daily Hunter](achievements/list/driver/daily-hunter.md)
     * [Legendary Driver](achievements/list/driver/legendary-driver.md)
