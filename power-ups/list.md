@@ -4,7 +4,7 @@ description: In-Game Power-ups
 
 # Home
 
-**Pursuit Powerups**
+## **Pursuit Powerups**
 
 | Emergency Evade | **Information** |
 | :---: | :---: |
@@ -12,7 +12,7 @@ description: In-Game Power-ups
 
 | Instant Cooldown | **Information** |
 | :---: | :---: |
-| ![](../.gitbook/assets/IconPowerups_Evasion.webp) | Instant Cooldown is a Powerup that can only be activated when a player enters Cooldown Mode in a Pursuit Outrun. When activated, the Instant Cooldown powerup will then instantly fill the cooldown meter and end the pursuit. |
+| ![](../.gitbook/assets/IconPowerups_Evasion.webp) | Instant Cooldown is a Powerup that can only be activated when a player enters Cooldown Mode in a Pursuit Outrun. When activated, the Instant Cooldown powerup will then instantly fill the cool down meter and end the pursuit. |
 
 | Juggernaut | **Information** |
 | :---: | :---: |
@@ -20,9 +20,9 @@ description: In-Game Power-ups
 
 | Run Flats | **Information** |
 | :---: | :---: |
-| ![](../.gitbook/assets/IconPowerups_Run_Flats.webp) | Run Flats (also called Run Flat Tires) are a powerup that is used to re-inflate tires during a Pursuit Outrun or Team Escape. This powerup can be activated after running over a Spikestrip. |
+| ![](../.gitbook/assets/IconPowerups_Run_Flats.webp) | Run Flats \(also called Run Flat Tires\) are a powerup that is used to re-inflate tires during a Pursuit Outrun or Team Escape. This powerup can be activated after running over a Spikestrip. |
 
-**Team Escape Powerups**
+## **Team Escape Powerups**
 
 | Team Emergency Evade | **Information** |
 | :---: | :---: |
@@ -32,7 +32,7 @@ description: In-Game Power-ups
 | :---: | :---: |
 | ![](../.gitbook/assets/IconPowerups_Team_Slingshot.webp) | Team Slingshot is a power-up that may be very useful in a Team Escape by giving the entire team a boost in speed similar to the individual Slingshot. This can help the players falling behind to catch up, but should be used with caution, as it can also catch a team-mate off guard causing them to crash or get stuck. |
 
-**Race Powerups**
+## **Race Powerups**
 
 | One More Lap | **Information** |
 | :---: | :---: |
@@ -40,11 +40,11 @@ description: In-Game Power-ups
 
 | Nitrous | **Information** |
 | :---: | :---: |
-| ![](../.gitbook/assets/IconPowerups_Nitrous.webp) | Nitrous (Also known as NOS) is a powerup which will give the player a quick burst of speed to the player's vehicle. The effect of the Nitrous powerup differs from car to car. |
+| ![](../.gitbook/assets/IconPowerups_Nitrous.webp) | Nitrous \(Also known as NOS\) is a powerup which will give the player a quick burst of speed to the player's vehicle. The effect of the Nitrous powerup differs from car to car. |
 
 | Ready | **Information** |
 | :---: | :---: |
-| ![](../.gitbook/assets/IconPowerups_Ready.webp) | Ready is a powerup that will give players access to powerups whenever they are needed. The Ready powerup will eliminate the cooldown period for powerups which will make them available for usage again. However, the Ready powerup itself has to be recharged in order to prevent players from reactivating Ready over and over again. |
+| ![](../.gitbook/assets/IconPowerups_Ready.webp) | Ready is a powerup that will give players access to powerups whenever they are needed. The Ready powerup will eliminate the cool down period for powerups which will make them available for usage again. However, the Ready powerup itself has to be recharged in order to prevent players from reactivating Ready over and over again. |
 
 | Shield | **Information** |
 | :---: | :---: |
@@ -60,4 +60,5 @@ description: In-Game Power-ups
 
 | Ghost | **Information** |
 | :---: | :---: |
-| ![](../.gitbook/assets/IconPowerups_Ghost.png) | Ghost is a powerup which will give the player temporary immunity to collisions. The effect of Ghost is effectly a Juggernaut alternative against rammers in-game. |
+| ![](../.gitbook/assets/IconPowerups_Ghost.png) | Ghost is a powerup which will give the player temporary immunity to collisions. The effect of Ghost is effectively a Juggernaut alternative against rammers in-game. |
+
