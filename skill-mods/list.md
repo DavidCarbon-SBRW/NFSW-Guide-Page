@@ -52,5 +52,29 @@ description: In-Game Skill Mods
 {% endtab %}
 {% endtabs %}
 
+## **Explore Skills**
 
+{% tabs %}
+{% tab title="Skill" %}
+| Icon | Skill | Description |
+| :---: | :---: | :---: |
+| ![](../../.gitbook/assets/IconSkillMod_Bounty_Hunter.webp) | Bounty Hunter | Increases Cash earned from Pursuits and Team Escapes |
+| ![](../../.gitbook/assets/IconSkillMod_Explorer.webp) | Explorer | Increases Cash earned from Treasure Hunt |
+| ![](../../.gitbook/assets/IconSkillMod_Lightning_Reflex.webp) | Lightning Reflex | Increases the cooldown speed of Ready |
+| ![](../../.gitbook/assets/IconSkillMod_Radar.webp) | Radar | Detects all Cops within x meters on the map |
+| ![](../../.gitbook/assets/IconSkillMod_Socialite.webp) | Socialite | Increases Cash earned from Multiplayer Races |
+| ![](../../.gitbook/assets/IconSkillMod_Treasure_Hunter.webp) | Treasure Hunter | Ability to detect treasure on map |
+{% endtab %}
+
+{% tab title="Star Rating" %}
+| Icon | ![](../../.gitbook/assets/Star.webp) | ![](../../.gitbook/assets/Star.webp)![](../../.gitbook/assets/Star.webp) | ![](../../.gitbook/assets/Star.webp)![](../../.gitbook/assets/Star.webp)![](../../.gitbook/assets/Star.webp) | ![](../../.gitbook/assets/Star.webp)![](../../.gitbook/assets/Star.webp)![](../../.gitbook/assets/Star.webp)![](../../.gitbook/assets/Star.webp) | Total Bonus |
+| :---: | :--- | :---: | :---: | :---: | :---: |
+| ![](../../.gitbook/assets/IconSkillMod_Bounty_Hunter.webp) | 3-6% | 7-9% | 14-17% | 18-21% | 30% |
+| ![](../../.gitbook/assets/IconSkillMod_Explorer.webp) | 5-10% | 13-15% | 24-28% | 30-34% | 50% |
+| ![](../../.gitbook/assets/IconSkillMod_Lightning_Reflex.webp) | 7-13% | 18-20% | 30-36% | 40-43% | 66% |
+| ![](../../.gitbook/assets/IconSkillMod_Radar.webp) | 50-100m | 125-150m | 225-275m | 300-325m | 500m |
+| ![](../../.gitbook/assets/IconSkillMod_Socialite.webp) | 3-6% | 7-9% | 14-17% | 18-21% | 30% |
+| ![](../../.gitbook/assets/IconSkillMod_Treasure_Hunter.webp) |
+{% endtab %}
+{% endtabs %}
 
