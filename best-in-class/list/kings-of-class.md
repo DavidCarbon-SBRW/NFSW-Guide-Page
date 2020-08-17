@@ -8,7 +8,7 @@ description: In terms of using Nitrous
 
 ### S Class
 
-| Manufacture Model | Race Track Type|
+| Manufacture Model | Race Track Type |
 | :---: | :---: |
 | Mclaren F1 ELITE | Overall |
 | Pagani Zonda Cinque | Low Speed Tracks |
@@ -17,7 +17,7 @@ description: In terms of using Nitrous
 
 ### A Class
 
-| Manufacture Model | Race Track Type|
+| Manufacture Model | Race Track Type |
 | :---: | :---: |
 | Ford Police Interceptor | Low Speed Tracks |
 | Porsche 911 GT2 997 | High Speed Tracks |
@@ -25,7 +25,7 @@ description: In terms of using Nitrous
 
 ### B Class
 
-| Manufacture Model | Race Track Type|
+| Manufacture Model | Race Track Type |
 | :---: | :---: |
 | Toyota MR2 | Overall |
 | Mitsubishi Eclipse GS-T ELITE | Overall |
@@ -36,7 +36,7 @@ description: In terms of using Nitrous
 
 ### C Class
 
-| Manufacture Model | Race Track Type|
+| Manufacture Model | Race Track Type |
 | :---: | :---: |
 | Mitsubishi Eclipse GS-T | Overall |
 | Toyota MR2 | Overall |
@@ -48,7 +48,7 @@ description: In terms of using Nitrous
 
 ### C Class
 
-| Manufacture Model | Race Track Type|
+| Manufacture Model | Race Track Type |
 | :---: | :---: |
 | Mitsubishi Eclipse GS-T | Overall |
 | Pontiac Solstice GXP | Overall |
@@ -66,7 +66,7 @@ description: In terms of using Nitrous
 
 ### A Class
 
-| Manufacture Model | Race Track Type|
+| Manufacture Model | Race Track Type |
 | :---: | :---: |
 | Jaguar XKR | Overall |
 | Nissan NISMO R34 GT-R Z-tune | Low Speed Tracks |
@@ -74,7 +74,7 @@ description: In terms of using Nitrous
 
 ### B Class
 
-| Manufacture Model | Race Track Type|
+| Manufacture Model | Race Track Type |
 | :---: | :---: |
 | Renault Clio V6 | Overall |
 | Mazda RX-8 ’09 | Low Speed & Technical Tracks |
@@ -85,7 +85,7 @@ description: In terms of using Nitrous
 
 ### C Class
 
-| Manufacture Model | Race Track Type|
+| Manufacture Model | Race Track Type |
 | :---: | :---: |
 | Renault Clio V6 | Overall |
 | Mazda RX-8 ’09 | Low Speed & Technical Tracks |
@@ -94,14 +94,17 @@ description: In terms of using Nitrous
 | Nissan Silvia S15 | High Speed Tracks |
 
 ### D Class
-| Manufacture Model | Race Track Type|
+
+| Manufacture Model | Race Track Type |
 | :---: | :---: |
 | Chevrolet Cobalt SS | High Speed Tracks |
 | Nissan Silvia S15 | Technical Tracks |
 | Nissan S14 | Technical Tracks |
 
 ### E Class
-| Manufacture Model | Race Track Type|
+
+| Manufacture Model | Race Track Type |
 | :---: | :---: |
 | Volkswagen Scirocco | Overall |
 | Nissan Silvia S15 | Technical Tracks |
+

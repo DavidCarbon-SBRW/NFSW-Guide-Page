@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Welcome!](README.md)
 
 ## Performance Parts
 
@@ -91,3 +91,4 @@
 ## Soapbox Race World Wiki
 
 * [Docs](https://docs.sbrw.davidcarbon.download/)
+
