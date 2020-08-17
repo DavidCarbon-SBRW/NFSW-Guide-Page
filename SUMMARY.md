@@ -81,7 +81,8 @@
 
 ## Best In Class
 
-* [Home](best-in-class/list.md)
+* [Home](best-in-class/list/README.md)
+  * [Kings of Each Class](best-in-class/list/kings-of-class.md)
 
 ## Locations
 
