@@ -10,13 +10,13 @@ description: In-Game Skill Mods
 {% tab title="Name" %}
 | Icon | Skill | Description |
 | :---: | :---: | :---: |
-| icon\_url | Aerodynamic | Increases the performance boost from Slingshot |
+| ![](../../.gitbook/assets/IconSkillMod_Aerodynamic.webp) | Aerodynamic | Increases the performance boost from Slingshot |
 {% endtab %}
 
 {% tab title="Star Rating" %}
-| Icon | 1 Star | 2 Stars | 3 Stars | 4 Stars | Total Bonus |
+| Icon | ![](../../.gitbook/assets/Star.webp) | ![](../../.gitbook/assets/Star.webp)![](../../.gitbook/assets/Star.webp) | ![](../../.gitbook/assets/Star.webp)![](../../.gitbook/assets/Star.webp)![](../../.gitbook/assets/Star.webp) | ![](../../.gitbook/assets/Star.webp)![](../../.gitbook/assets/Star.webp)![](../../.gitbook/assets/Star.webp)![](../../.gitbook/assets/Star.webp) | Total Bonus |
 | :---: | :--- | :---: | :---: | :---: | :---: |
-| icon\_url | 1% | 2% | 3% | 4% | total\_% |
+| ![](../../.gitbook/assets/IconSkillMod_Aerodynamic.webp) | 3-6% | 7-10% | 14-17% | 18-21% | 30% |
 {% endtab %}
 {% endtabs %}
 
