@@ -88,3 +88,6 @@
 
 * [Home](locations/list.md)
 
+## Soapbox Race World Wiki
+
+* [Docs](https://docs.sbrw.davidcarbon.download/)
