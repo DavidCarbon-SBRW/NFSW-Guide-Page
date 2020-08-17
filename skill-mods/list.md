@@ -78,3 +78,36 @@ description: In-Game Skill Mods
 {% endtab %}
 {% endtabs %}
 
+## **Pursuit Skills**
+
+{% tabs %}
+{% tab title="Skill" %}
+| Icon | Skill | Description |
+| :---: | :---: | :---: |
+| ![](../../.gitbook/assets/IconSkillMod_Cooldown.webp) | Cooldown | Decreases the time required to escape a pursuit |
+| ![](../../.gitbook/assets/IconSkillMod_Demolition.webp) | Demolition | Increases the force of Juggernaut |
+| ![](../../.gitbook/assets/IconSkillMod_Evasion.webp) | Evasion | Increases the power of Emergency Evade |
+| ![](../../.gitbook/assets/IconSkillMod_Heavy_Mass.webp) | Heavy Mass | Car is extremely heavy |
+| ![](../../.gitbook/assets/IconSkillMod_Overdrive.webp) | Overdrive | Increases the range of Emergency Evade |
+| ![](../../.gitbook/assets/IconSkillMod_Ram.webp) | Ram | Increases car weight in collisions |
+| ![](../../.gitbook/assets/IconSkillMod_Rampage.webp) | Rampage | Increases the duration of Juggernaut |
+| ![](../../.gitbook/assets/IconSkillMod_Rapid_Refill.webp) | Rapid Refill | Increases the cooldown speed of Run Flats |
+| ![](../../.gitbook/assets/IconSkillMod_Reload.webp) | Reload | Increases the cooldown speed of Emergency Evade |
+| ![](../../.gitbook/assets/IconSkillMod_Unrelenting_Force.webp) | Unrelenting Force | Increases the cooldown speed of Juggernaut |
+{% endtab %}
+
+{% tab title="Star Rating" %}
+| Icon | ![](../../.gitbook/assets/Star.webp) | ![](../../.gitbook/assets/Star.webp)![](../../.gitbook/assets/Star.webp) | ![](../../.gitbook/assets/Star.webp)![](../../.gitbook/assets/Star.webp)![](../../.gitbook/assets/Star.webp) | ![](../../.gitbook/assets/Star.webp)![](../../.gitbook/assets/Star.webp)![](../../.gitbook/assets/Star.webp)![](../../.gitbook/assets/Star.webp) | Total Bonus |
+| :---: | :--- | :---: | :---: | :---: | :---: |
+| ![](../../.gitbook/assets/IconSkillMod_Cooldown.webp) | 5-10% | 13-15% | 24-28% | 31-34% | 50% |
+| ![](../../.gitbook/assets/IconSkillMod_Demolition.webp) | 3-4% | 6-8% | 14-15% | 16% | 25% |
+| ![](../../.gitbook/assets/IconSkillMod_Evasion.webp) | 5-10% | 13-15% | 24-28% | 31-34% | 50% |
+| ![](../../.gitbook/assets/IconSkillMod_Heavy_Mass.webp) |
+| ![](../../.gitbook/assets/IconSkillMod_Overdrive.webp) | 20-40% | 50-60% | 90-110% | 130% | 200% |
+| ![](../../.gitbook/assets/IconSkillMod_Ram.webp) | 5-10% | 13-15% | 24-28% | 31-34% | 50% |
+| ![](../../.gitbook/assets/IconSkillMod_Rampage.webp) | 5-10% | 13-15% | 24-28% | 31-34% | 50% |
+| ![](../../.gitbook/assets/IconSkillMod_Rapid_Refill.webp) | 5-10% | 13-15% | 24-28% | 31-34% | 50% |
+| ![](../../.gitbook/assets/IconSkillMod_Reload.webp) | 8-15% | 19-21% | 30-40% | 45-49% | 75% |
+| ![](../../.gitbook/assets/IconSkillMod_Unrelenting_Force.webp) | 3-7% | 8-10% | 16-18% | 20% | 33% |
+{% endtab %}
+{% endtabs %}
